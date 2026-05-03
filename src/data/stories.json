@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "username": "alex",
+    "timeAgo": "2h",
+    "avatar": "https://picsum.photos/id/1005/120/120",
+    "image": "https://picsum.photos/id/1011/1080/1920"
+  },
+  {
+    "id": 2,
+    "username": "nora",
+    "timeAgo": "3h",
+    "avatar": "https://picsum.photos/id/1012/120/120",
+    "image": "https://picsum.photos/id/1015/1080/1920"
+  },
+  {
+    "id": 3,
+    "username": "sam",
+    "timeAgo": "4h",
+    "avatar": "https://picsum.photos/id/1027/120/120",
+    "image": "https://picsum.photos/id/1016/1080/1920"
+  },
+  {
+    "id": 4,
+    "username": "mia",
+    "timeAgo": "5h",
+    "avatar": "https://picsum.photos/id/1025/120/120",
+    "image": "https://picsum.photos/id/1018/1080/1920"
+  },
+  {
+    "id": 5,
+    "username": "ravi",
+    "timeAgo": "6h",
+    "avatar": "https://picsum.photos/id/1074/120/120",
+    "image": "https://picsum.photos/id/1020/1080/1920"
+  }
+]
