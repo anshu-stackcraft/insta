@@ -11,10 +11,10 @@ export default function StoryList({ stories, seenLookup, onOpen }) {
             aria-label={`Open story by ${story.username ?? `user_${story.id}`}`}
           >
             <div
-              className={`rounded-full p-[2px] ${
+              className={`rounded-full p-0.5 ${
                 seenLookup.has(story.id)
                   ? "bg-zinc-500"
-                  : "bg-gradient-to-tr from-orange-400 via-pink-500 to-purple-600"
+                  : "bg-linear-to-tr from-orange-400 via-pink-500 to-purple-600"
               }`}
             >
               <img
